@@ -1,6 +1,6 @@
 ### GONCALVES Hugo
 
-- 🔭 I’m currently working on ML projects
+- 🔭 I’m currently working on Project Manager App
 - 🌱 I’m currently learning Machine Learning and Software Engineering
 - 📫 How to reach me: hugo.gclvs@icloud.com
 - ⚡ Fun fact: ...
