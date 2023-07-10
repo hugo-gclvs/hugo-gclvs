@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Project Manager App
 - 🌱 I’m currently learning Machine Learning and Software Engineering
-- 📫 How to reach me: hugo.gclvs@icloud.com
+- 📫 How to reach me: contact@hugogoncalves.fr
 
 <h3 align="left">Most used languages : </h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugoreoo&show_icons=true&locale=en&layout=compact" alt="hugoreoo" /></p>
