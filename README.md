@@ -1,7 +1,7 @@
 ### GONCALVES Hugo
 
 - 🔭 I’m currently working on Project Manager App
-- 🌱 I’m currently learning Machine Learning and Software Engineering
+- 🌱 I’m currently learning React and Software Engineering
 - 📫 How to reach me: contact@hugogoncalves.fr
 
 <h3 align="left">Most used languages : </h3>
@@ -9,7 +9,7 @@
 
 <h3 align="left">My current wakatime project : </h3>
 
-[![wakatime](https://wakatime.com/badge/user/b5333c34-8057-4742-9022-aa2323b58340/project/50eb0d5c-5cbb-4f16-b386-5b28945e0b22.svg)](https://wakatime.com/badge/user/b5333c34-8057-4742-9022-aa2323b58340/project/50eb0d5c-5cbb-4f16-b386-5b28945e0b22)
+[![wakatime](https://wakatime.com/badge/user/b5333c34-8057-4742-9022-aa2323b58340/project/1b4952b1-837b-4aae-9d04-6dd622f5db0f.svg)](https://wakatime.com/badge/user/b5333c34-8057-4742-9022-aa2323b58340/project/1b4952b1-837b-4aae-9d04-6dd622f5db0f)
 
 <h3 align="left">My total wakatime : </h3>
 
