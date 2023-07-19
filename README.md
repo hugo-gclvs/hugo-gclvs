@@ -5,7 +5,7 @@
 - 📫 How to reach me: contact@hugogoncalves.fr
 
 <h3 align="left">Most used languages : </h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugoreoo&show_icons=true&locale=en&layout=compact" alt="hugoreoo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugo-gclvs&show_icons=true&locale=en&layout=compact" alt="hugoreoo" /></p>
 
 <h3 align="left">My current wakatime project : </h3>
 
