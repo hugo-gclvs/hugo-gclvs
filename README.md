@@ -1,6 +1,6 @@
 ### GONCALVES Hugo
 
-- 🔭 I’m currently working on OGE API
+- 🔭 I’m currently working on Library Manager
 - 🌱 I’m currently learning Software Engineering
 - 📫 How to reach me: contact@hugogoncalves.fr
 
