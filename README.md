@@ -9,7 +9,7 @@
 
 <h3 align="left">My current wakatime project : </h3>
 
-[![wakatime](https://wakatime.com/badge/user/b5333c34-8057-4742-9022-aa2323b58340/project/018c44c6-f5ae-4f5e-a437-247155b42040.svg)](https://wakatime.com/badge/user/b5333c34-8057-4742-9022-aa2323b58340/project/018c44c6-f5ae-4f5e-a437-247155b42040)
+[![wakatime](https://wakatime.com/badge/user/b5333c34-8057-4742-9022-aa2323b58340/project/def0c294-734d-4543-a7c0-48ccfaba6159.svg)](https://wakatime.com/badge/user/b5333c34-8057-4742-9022-aa2323b58340/project/def0c294-734d-4543-a7c0-48ccfaba6159)
 
 <h3 align="left">My total wakatime : </h3>
 
