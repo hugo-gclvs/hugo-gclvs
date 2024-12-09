@@ -1,7 +1,7 @@
 ### GONCALVES Hugo
 
-- 🔭 I’m currently working on Library Manager
-- 🌱 I’m currently learning Software Engineering
+- 🔭 I’m currently working on Data Analyst Dashboard
+- 🌱 I’m currently learning Software Engineering and Data Analysis
 - 📫 How to reach me: contact@hugogoncalves.fr
 
 <h3 align="left">Most used languages : </h3>
